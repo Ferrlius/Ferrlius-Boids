@@ -3,6 +3,7 @@
 
 A boids based configuration for flying mobs in Minecraft.
 
+experimental demo or what ever, I made this mod for a very specific situation so don't expect me to support this mod. pick it up if you want.
 
 ## How to use
 right now mobs don't spawn with attribute on their own, you have to spawn mobs by yourself
